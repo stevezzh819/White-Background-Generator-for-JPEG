@@ -62,6 +62,8 @@ White-Background-Generator-for-JPEG/
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
 └── dist/                   # Packaged executable (if built)
+```
+
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, feel free to fork the repository and submit a pull request.
